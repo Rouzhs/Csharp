@@ -1,0 +1,10 @@
+C:\Users\Alex\source\repos\encryption\bin\Debug\encryption.exe.config
+C:\Users\Alex\source\repos\encryption\bin\Debug\encryption.exe
+C:\Users\Alex\source\repos\encryption\bin\Debug\encryption.pdb
+C:\Users\Alex\source\repos\encryption\obj\Debug\encryption.csprojAssemblyReference.cache
+C:\Users\Alex\source\repos\encryption\obj\Debug\encryption.Form1.resources
+C:\Users\Alex\source\repos\encryption\obj\Debug\encryption.Properties.Resources.resources
+C:\Users\Alex\source\repos\encryption\obj\Debug\encryption.csproj.GenerateResource.cache
+C:\Users\Alex\source\repos\encryption\obj\Debug\encryption.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\encryption\obj\Debug\encryption.exe
+C:\Users\Alex\source\repos\encryption\obj\Debug\encryption.pdb
