@@ -1,0 +1,15 @@
+C:\Users\Alex\source\repos\serial\obj\Debug\serial.csprojAssemblyReference.cache
+C:\Users\Alex\source\repos\serial\obj\Debug\serial.Form2.resources
+C:\Users\Alex\source\repos\serial\obj\Debug\serial.Properties.Resources.resources
+C:\Users\Alex\source\repos\serial\obj\Debug\serial.csproj.GenerateResource.cache
+C:\Users\Alex\source\repos\serial\obj\Debug\serial.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\serial\bin\Debug\serial.exe.config
+C:\Users\Alex\source\repos\serial\bin\Debug\serial.exe
+C:\Users\Alex\source\repos\serial\bin\Debug\serial.pdb
+C:\Users\Alex\source\repos\serial\bin\Debug\paint.exe
+C:\Users\Alex\source\repos\serial\bin\Debug\paint.pdb
+C:\Users\Alex\source\repos\serial\bin\Debug\paint.exe.config
+C:\Users\Alex\source\repos\serial\obj\Debug\serial.csproj.CopyComplete
+C:\Users\Alex\source\repos\serial\obj\Debug\serial.exe
+C:\Users\Alex\source\repos\serial\obj\Debug\serial.pdb
+C:\Users\Alex\source\repos\serial\obj\Debug\serial.Elements.resources

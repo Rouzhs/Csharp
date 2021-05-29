@@ -1,0 +1,10 @@
+C:\Users\Alex\source\repos\paint\bin\Debug\paint.exe.config
+C:\Users\Alex\source\repos\paint\bin\Debug\paint.exe
+C:\Users\Alex\source\repos\paint\bin\Debug\paint.pdb
+C:\Users\Alex\source\repos\paint\obj\Debug\paint.csprojAssemblyReference.cache
+C:\Users\Alex\source\repos\paint\obj\Debug\paint.Form1.resources
+C:\Users\Alex\source\repos\paint\obj\Debug\paint.Properties.Resources.resources
+C:\Users\Alex\source\repos\paint\obj\Debug\paint.csproj.GenerateResource.cache
+C:\Users\Alex\source\repos\paint\obj\Debug\paint.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\paint\obj\Debug\paint.exe
+C:\Users\Alex\source\repos\paint\obj\Debug\paint.pdb
