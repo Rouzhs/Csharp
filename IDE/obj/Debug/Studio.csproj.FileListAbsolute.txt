@@ -1,0 +1,12 @@
+C:\Users\Alex\source\repos\Studio\bin\Debug\Studio.exe.config
+C:\Users\Alex\source\repos\Studio\bin\Debug\Studio.exe
+C:\Users\Alex\source\repos\Studio\bin\Debug\Studio.pdb
+C:\Users\Alex\source\repos\Studio\obj\Debug\Studio.csprojAssemblyReference.cache
+C:\Users\Alex\source\repos\Studio\obj\Debug\Studio.Properties.Resources.resources
+C:\Users\Alex\source\repos\Studio\obj\Debug\Studio.csproj.GenerateResource.cache
+C:\Users\Alex\source\repos\Studio\obj\Debug\Studio.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\Studio\obj\Debug\Studio.exe
+C:\Users\Alex\source\repos\Studio\obj\Debug\Studio.pdb
+C:\Users\Alex\source\repos\Studio\obj\Debug\Studio.Form1.resources
+C:\Users\Alex\source\repos\Studio\obj\Debug\Studio.SaveForm.resources
+C:\Users\Alex\source\repos\Studio\obj\Debug\Studio.ReferForm.resources
