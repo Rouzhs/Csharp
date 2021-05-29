@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Drawing;
 using System.Windows.Forms;
 
@@ -15,7 +15,7 @@ namespace paint
 
 				}
 				protected Figure(Color colour, Point begin, Point end)
-			 {
+			        {
 						Colour = colour;
 						PointBegin = begin;
 						PointEnd = end;
