@@ -1,0 +1,10 @@
+C:\Users\Alex\source\repos\container\bin\Debug\container.exe.config
+C:\Users\Alex\source\repos\container\bin\Debug\container.exe
+C:\Users\Alex\source\repos\container\bin\Debug\container.pdb
+C:\Users\Alex\source\repos\container\obj\Debug\container.csprojAssemblyReference.cache
+C:\Users\Alex\source\repos\container\obj\Debug\container.Form1.resources
+C:\Users\Alex\source\repos\container\obj\Debug\container.Properties.Resources.resources
+C:\Users\Alex\source\repos\container\obj\Debug\container.csproj.GenerateResource.cache
+C:\Users\Alex\source\repos\container\obj\Debug\container.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\container\obj\Debug\container.exe
+C:\Users\Alex\source\repos\container\obj\Debug\container.pdb
