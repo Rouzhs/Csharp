@@ -1,0 +1,7 @@
+C:\Users\Alex\source\repos\MathLogic\HW1_equiv\bin\Debug\HW1_equiv.exe.config
+C:\Users\Alex\source\repos\MathLogic\HW1_equiv\bin\Debug\HW1_equiv.exe
+C:\Users\Alex\source\repos\MathLogic\HW1_equiv\bin\Debug\HW1_equiv.pdb
+C:\Users\Alex\source\repos\MathLogic\HW1_equiv\obj\Debug\HW1_equiv.csprojAssemblyReference.cache
+C:\Users\Alex\source\repos\MathLogic\HW1_equiv\obj\Debug\HW1_equiv.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\MathLogic\HW1_equiv\obj\Debug\HW1_equiv.exe
+C:\Users\Alex\source\repos\MathLogic\HW1_equiv\obj\Debug\HW1_equiv.pdb
